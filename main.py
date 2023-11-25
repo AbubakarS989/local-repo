@@ -91,4 +91,5 @@ else:
     # then copy the [hash value] of that commit, to which we move to back
     # then use 
     # git reset~[hash value]
+    # git reset --hard [hash value] (to changes on visual code)
 
