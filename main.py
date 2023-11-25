@@ -90,4 +90,5 @@ else:
     # first we use [git log]to see list of commit
     # then copy the [hash value] of that commit, to which we move to back
     # then use 
-    # git reset [hash value]
+    # git reset~[hash value]
+
