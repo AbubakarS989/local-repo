@@ -2,6 +2,7 @@
 int main()
 {
     printf("Hello");
-    printf("world (hi ioc)");
+    printf("world \n");
+
 
 }
