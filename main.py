@@ -21,6 +21,7 @@
 # git clone (link orf repo here)
 # git status 
 
+# add repo from github
 # remote add origin [link repo]
 # git remote -v [verify branch]
 # git branch [see on which branch we are currently working]
