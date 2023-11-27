@@ -2,12 +2,9 @@
 int main()
 {
 
-    printf("Bye");
-    printf("world ioc");
-    printf("world ioc");
-    printf("world ioc");
-
-    
-
+    for(int i=0;i<-10;i++)
+    {
+        printf("%d",i);
+    }
 
 }
