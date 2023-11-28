@@ -86,7 +86,7 @@ else:
 # Commit Changes (for 1 comment)
     #  we add and commit the change but we don't need to do this.
 
-# commit changes for multiple backward commit
+# Commit changes for multiple backward commit
     # first we use [git log]to see list of commit
     # then copy the [hash value] of that commit, to which we move to back
     # then use 
